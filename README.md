@@ -26,4 +26,4 @@
 
 ## See Also
 
-- [More App Examples](https://profcase.github.io/web-apps-list/)
+- [More App Examples](https://sushma chanati.github.io/web-apps-list/)
