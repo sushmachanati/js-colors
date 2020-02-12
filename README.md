@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://profcase.github.io/js-colors/)
-- [Source](https://github.com/profcase/js-colors)
+- [Demo](https://sushma chaati.github.io/js-colors/)
+- [Source](https://github.com/sushma chanati/js-colors)
 
 ## Requirements
 
